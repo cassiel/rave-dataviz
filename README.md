@@ -14,6 +14,6 @@
 
 ## Data Sources
 
-- Twitter (within Quadrigram)
+- Twitter (within Quadrigram).
 
 - Data spreadsheets from [The Guardian Data Store](http://www.guardian.co.uk/data).
