@@ -1,0 +1,113 @@
+{
+	"pattrstorage" : 	{
+		"name" : "brcosr-presets",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"contrast-val" : [ 0.0 ],
+					"bright-mult" : [ 0 ],
+					"cont-mult" : [ 1 ],
+					"sat-mult" : [ 1 ],
+					"saturation-val" : [ 1.0 ],
+					"brighness-val" : [ 1.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"contrast-val" : [ 0.019608 ],
+					"bright-mult" : [ 0 ],
+					"cont-mult" : [ 0 ],
+					"sat-mult" : [ 0 ],
+					"saturation-val" : [ 1.0 ],
+					"brighness-val" : [ 1.0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"contrast-val" : [ 1.0 ],
+					"bright-mult" : [ 0 ],
+					"cont-mult" : [ 0 ],
+					"sat-mult" : [ 0 ],
+					"saturation-val" : [ 0.0 ],
+					"brighness-val" : [ 1.0 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"contrast-val" : [ 1.0 ],
+					"bright-mult" : [ 1 ],
+					"cont-mult" : [ 0 ],
+					"sat-mult" : [ 1 ],
+					"saturation-val" : [ 0.0 ],
+					"brighness-val" : [ 1.0 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"contrast-val" : [ 0.009804 ],
+					"bright-mult" : [ 1 ],
+					"cont-mult" : [ 1 ],
+					"sat-mult" : [ 0 ],
+					"saturation-val" : [ 0.156863 ],
+					"brighness-val" : [ 1.0 ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"data" : 				{
+					"contrast-val" : [ 0.852941 ],
+					"bright-mult" : [ 0 ],
+					"cont-mult" : [ 1 ],
+					"sat-mult" : [ 1 ],
+					"saturation-val" : [ 0.458883 ],
+					"brighness-val" : [ 1.0 ]
+				}
+
+			}
+,
+			"7" : 			{
+				"id" : 7,
+				"data" : 				{
+					"contrast-val" : [ 1.0 ],
+					"bright-mult" : [ 1 ],
+					"cont-mult" : [ 1 ],
+					"sat-mult" : [ 0 ],
+					"saturation-val" : [ 0.635353 ],
+					"brighness-val" : [ 1.0 ]
+				}
+
+			}
+,
+			"8" : 			{
+				"id" : 8,
+				"data" : 				{
+					"contrast-val" : [ 0.045098 ],
+					"bright-mult" : [ 1 ],
+					"cont-mult" : [ 0 ],
+					"sat-mult" : [ 0 ],
+					"saturation-val" : [ 0.0 ],
+					"brighness-val" : [ 0.140255 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
