@@ -87,10 +87,6 @@ function fade(cx, cy) {
 }
 	
 
-
-
 white_A();
 
-post("LOADED\n");
-post(x); post();
-
+post("HELLO\n");
