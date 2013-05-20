@@ -1,9 +1,9 @@
 {
-	"name" : "week-5",
+	"name" : "week-6",
 	"version" : 1,
-	"creationdate" : -843081074,
-	"modificationdate" : -843066479,
-	"viewrect" : [ 478.0, 467.0, 789.0, 485.0 ],
+	"creationdate" : -843060793,
+	"modificationdate" : -843060768,
+	"viewrect" : [ 25.0, 69.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -18,10 +18,6 @@
 		}
 ,
 		"code" : 		{
-			"scripting.js" : 			{
-				"kind" : "javascript",
-				"local" : 1
-			}
 
 		}
 
@@ -35,5 +31,5 @@
 
 	}
 ,
-	"detailsvisible" : 1
+	"detailsvisible" : 0
 }
